@@ -2,6 +2,7 @@
 
 One line per report: date, title, link.
 
+- 2026-09-22, No site work: the brief belonged to another project, [reports/2026-09-22-no-site-work-brief-for-another-project.md](2026-09-22-no-site-work-brief-for-another-project.md)
 - 2026-09-20, Three statements, and a quieter list beneath them, [reports/2026-09-20-statement-three-lines-and-list.md](2026-09-20-statement-three-lines-and-list.md)
 - 2026-09-20, Phase 1a, the About page on a preview branch, [reports/2026-09-20-phase-1a-about-preview.md](2026-09-20-phase-1a-about-preview.md)
 - 2026-09-20, New copy for the gold standing block, [reports/2026-09-20-statement-block-new-copy.md](2026-09-20-statement-block-new-copy.md)
