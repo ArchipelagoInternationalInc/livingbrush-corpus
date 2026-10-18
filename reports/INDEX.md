@@ -2,6 +2,7 @@
 
 One line per report: date, title, link.
 
+- 2026-10-18, The footer in four columns, [reports/2026-10-18-footer-four-columns.md](2026-10-18-footer-four-columns.md)
 - 2026-10-17, One footer for the whole site, and tighter menu buttons, [reports/2026-10-17-site-footer-and-button-spacing.md](2026-10-17-site-footer-and-button-spacing.md)
 - 2026-10-17, Menu contrast: measured from the pixels, then fixed, [reports/2026-10-17-menu-contrast-measured-and-fixed.md](2026-10-17-menu-contrast-measured-and-fixed.md)
 - 2026-10-17, Three buttons in the menu, and a Cruises link, [reports/2026-10-17-menu-buttons-and-cruises-link.md](2026-10-17-menu-buttons-and-cruises-link.md)
