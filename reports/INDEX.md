@@ -2,6 +2,7 @@
 
 One line per report: date, title, link.
 
+- 2026-10-18, The home page's type across the whole site, [reports/2026-10-18-homepage-type-across-the-site.md](2026-10-18-homepage-type-across-the-site.md)
 - 2026-10-18, The wordmark face across the menu and the footer, [reports/2026-10-18-wordmark-face-across-the-site.md](2026-10-18-wordmark-face-across-the-site.md)
 - 2026-10-18, A centred footer, Home in the menu, and a smaller menu, [reports/2026-10-18-centred-footer-and-smaller-menu.md](2026-10-18-centred-footer-and-smaller-menu.md)
 - 2026-10-18, The footer in four columns, [reports/2026-10-18-footer-four-columns.md](2026-10-18-footer-four-columns.md)
